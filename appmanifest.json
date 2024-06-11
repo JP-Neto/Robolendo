@@ -1,7 +1,7 @@
 {
 	"name": "RoboLendo",
 	"short_name": "RoboLendo",
-	"description": "",
+	"description": "Versao com 23 fases",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
